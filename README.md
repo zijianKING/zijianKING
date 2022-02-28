@@ -2,10 +2,10 @@
 
 My name is Zijian and I'm a Industrial Engineering student from U of Toronto. Here's some info about me!
 
-
+<!--
 🔭 Current project:
 Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
-
+-->
 🌱 Interests:
 Web development.
 
