@@ -12,6 +12,7 @@ Web development.
 💬 Reach me by email or LinkedIn! utzijian.wang@mail.utoronto.ca | www.linkedin.com/in/jian-toronto
 
 📫 Visit my website: 
+https://zijianking.github.io/
 
 <!--
 **zijianKING/zijianKING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
