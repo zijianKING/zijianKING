@@ -7,7 +7,7 @@ My name is Zijian and I'm a 4th-year Industrial Engineering student from U of To
 Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
 -->
 🌱 Interests:
-Web development.
+Web development, Quant Finance
 
 💬 Reach me by email or LinkedIn! utzijian.wang@mail.utoronto.ca | www.linkedin.com/in/jian-toronto
 
