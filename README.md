@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zijian and I'm a 4th-year Industrial Engineering student from U of Toronto. Here's some info about me!
+My name is Zijian Wang and I'm a 4th-year Industrial Engineering student from U of Toronto. Here's some info about me!
 
 <!--
 🔭 Current project:
