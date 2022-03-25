@@ -4,7 +4,7 @@ My name is Zijian Wang and I'm a 4th-year Industrial Engineering student from U 
 
 <!--
 🔭 Current project:
-Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
+Financial stocks DD analysis and classification  (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
 -->
 🌱 Interests:
 Web development, Quant Finance
