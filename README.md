@@ -9,8 +9,6 @@ Financial stocks DD analysis and classification  (r/WallStreetBets) (ReactJS + P
 🌱 Interests:
 Web development, Finance
 
-💬 Reach me by email or LinkedIn! utzijian.wang@mail.utoronto.ca | www.linkedin.com/in/jian-toronto
-
 📫 Visit my website: 
 https://zijianking.github.io/
 
